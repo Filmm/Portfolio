@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Gothic+A1|Kaushan+Script|Libre+Baskerville|Lobster');
+
+body,footer{
+  font-family: 'Gothic A1', sans-serif !important;
+}
+
+.nav-link{
+  font-family: 'Gothic A1', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+.name{
+  font-family: 'Gothic A1', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+pre{
+  font-family: 'Gothic A1', sans-serif !important;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.thai{
+  display: inline;
+  font-size: 16px;
+  
+}
+
+.name_hr{
+  width: 200px;
+  margin-top: 0;
+  border: 2px solid crimson;
+}
+
+.port_hr{
+  width: 100px;
+  margin-top: 0;
+  border: 2px solid crimson;
+}
+
+.contact_hr{
+  width: 80px;
+  margin-top: 0;
+  border: 2px solid crimson;
+}
+
+
+.skill_hr{
+  width: 60px;
+  margin-top: 0;
+  margin-bottom: 0;
+  border: 2px solid crimson;
+}
+.personal , .education , .language{
+  font-weight: bold;
+}
+
+.skill{
+  font-weight: bold;
+  text-align: center;
+}
+
+th{
+  text-align: center !important;
+}
+
+.center{
+  text-align: center;
+}
+
+tbody{
+  background: #F7F9F9;
+}
+
+.progress {
+position: relative;
+height: 25px;
+}
+.progress > .progress-type {
+position: absolute;
+left: 0px;
+font-weight: 700;
+padding: 3px 30px 2px 10px;
+color: #000;
+
+}
+.progress > .progress-completed {
+position: absolute;
+right: 0px;
+font-weight: 800;
+padding: 3px 10px 2px;
+}
